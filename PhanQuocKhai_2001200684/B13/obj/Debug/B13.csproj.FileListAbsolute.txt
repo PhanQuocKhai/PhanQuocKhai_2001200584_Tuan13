@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\cn .NET\38_TruongTanPhat_2001216030\B13\B13\bin\Debug\B13.exe.config
+E:\LuuDuLieuSinhVien\cn .NET\38_TruongTanPhat_2001216030\B13\B13\bin\Debug\B13.exe
+E:\LuuDuLieuSinhVien\cn .NET\38_TruongTanPhat_2001216030\B13\B13\bin\Debug\B13.pdb
+E:\LuuDuLieuSinhVien\cn .NET\38_TruongTanPhat_2001216030\B13\B13\obj\Debug\B13.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\cn .NET\38_TruongTanPhat_2001216030\B13\B13\obj\Debug\B13.Form1.resources
+E:\LuuDuLieuSinhVien\cn .NET\38_TruongTanPhat_2001216030\B13\B13\obj\Debug\B13.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\cn .NET\38_TruongTanPhat_2001216030\B13\B13\obj\Debug\B13.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\cn .NET\38_TruongTanPhat_2001216030\B13\B13\obj\Debug\B13.exe
+E:\LuuDuLieuSinhVien\cn .NET\38_TruongTanPhat_2001216030\B13\B13\obj\Debug\B13.pdb
